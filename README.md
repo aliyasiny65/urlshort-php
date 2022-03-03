@@ -1,1 +1,1 @@
-#URL Kısaltma servisi PHP 
+URL Kısaltma servisi PHP
